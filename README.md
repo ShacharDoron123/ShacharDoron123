@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React  
 
 ### 💻 My Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,py,next)
 
 ---
 
