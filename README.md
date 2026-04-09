@@ -8,4 +8,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShacharDoron123&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShacharDoron123&layout=compact&theme=tokyonight&v=1)
