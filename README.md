@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShacharDoron123&layout=compact&theme=tokyonight&v=1)
 
 <div align="center">
-  <a href="shachar08.doron@gmail.com">
+ <a href="mailto:shachar08.doron@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </div>
 
