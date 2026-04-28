@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Shachar 👋  
 
 - 🔭 I’m currently working on full-stack web development  
 - 🌱 I’m currently learning React  
@@ -7,7 +7,11 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,py,next)
 
 ---
+## 🚀 Projects
+- 🎮 Games Website - https://github.com/ShacharDoron123/Games-website
+- 🎬 FindTheEpisode Website - https://github.com/ShacharDoron123/findTheEpesod-website
 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShacharDoron123&layout=compact&theme=tokyonight&v=1)
 
 <div align="center">
